@@ -1,0 +1,16 @@
+*.doc
+*.lnk
+*.rtf
+*.pyc
+*.pptx
+*.xlsx
+*.pkl
+*/.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.sas7bdat
+*.csv
+*.docx
+*.docx
+*.xls
+*.docx
+*.txt
